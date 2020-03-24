@@ -79,6 +79,9 @@ Constructed with the following guidelines:
 * A new *build* release indicates this is a pre-release of the version.
 
 
+## Releases
+[All Releases](https://github.com/popcorn-official/popcorn-desktop/releases)
+
 
 ## Archive Links for older installations
 v3.10.0
